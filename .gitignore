@@ -35,3 +35,12 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+#jekyll
+/_site/
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll
+Gemfile
+Gemfile.lock
