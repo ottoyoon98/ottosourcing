@@ -1,9 +1,9 @@
-url: "https://ottoyoon98.github.io"
-baseurl: "/ottosourcing"
+url: "https://ottoyoon98.github.io/ottosurcing"
+baseurl: ""
 
 # Site settings
 title: ottosourcing
-email: ottoyoon98l@gmail.com
+email: ottoyoon98@gmail.com
 description: "ottosourcing."
 
 
@@ -27,7 +27,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
